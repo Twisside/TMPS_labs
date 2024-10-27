@@ -179,7 +179,3 @@ class Program {
 
 ## Conclusion
 This project demonstrates the practical implementation of three core creational design patterns in C#: Factory Method, Builder, and Prototype. These patterns work together to manage object creation efficiently and flexibly, supporting clean code practices and extensible design.
-
---- 
-
-This detailed breakdown should serve as a comprehensive guide to understanding how the patterns are implemented and interact within the project.
