@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TMPSLab1", "TMPSLab1\TMPSLab1.csproj", "{9BE5FCCD-4F9C-4BAF-8EE8-95C166DE2BF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab0", "lab0\lab0.csproj", "{800269ED-7892-49E9-9E40-89E1E79D8FF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab2", "lab2\lab2.csproj", "{84304A93-F6C6-4077-9F5F-3D2DDDF5EC60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BE5FCCD-4F9C-4BAF-8EE8-95C166DE2BF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BE5FCCD-4F9C-4BAF-8EE8-95C166DE2BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BE5FCCD-4F9C-4BAF-8EE8-95C166DE2BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BE5FCCD-4F9C-4BAF-8EE8-95C166DE2BF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{800269ED-7892-49E9-9E40-89E1E79D8FF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{800269ED-7892-49E9-9E40-89E1E79D8FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{800269ED-7892-49E9-9E40-89E1E79D8FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{800269ED-7892-49E9-9E40-89E1E79D8FF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84304A93-F6C6-4077-9F5F-3D2DDDF5EC60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84304A93-F6C6-4077-9F5F-3D2DDDF5EC60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84304A93-F6C6-4077-9F5F-3D2DDDF5EC60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84304A93-F6C6-4077-9F5F-3D2DDDF5EC60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

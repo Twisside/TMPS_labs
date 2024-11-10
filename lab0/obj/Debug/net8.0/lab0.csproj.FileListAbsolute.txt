@@ -1,0 +1,14 @@
+D:\OneDrive - Technical University of Moldova\PR\TMPS\lab0\bin\Debug\net8.0\lab0.exe
+D:\OneDrive - Technical University of Moldova\PR\TMPS\lab0\bin\Debug\net8.0\lab0.deps.json
+D:\OneDrive - Technical University of Moldova\PR\TMPS\lab0\bin\Debug\net8.0\lab0.runtimeconfig.json
+D:\OneDrive - Technical University of Moldova\PR\TMPS\lab0\bin\Debug\net8.0\lab0.dll
+D:\OneDrive - Technical University of Moldova\PR\TMPS\lab0\bin\Debug\net8.0\lab0.pdb
+D:\OneDrive - Technical University of Moldova\PR\TMPS\lab0\obj\Debug\net8.0\lab0.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Technical University of Moldova\PR\TMPS\lab0\obj\Debug\net8.0\lab0.AssemblyInfoInputs.cache
+D:\OneDrive - Technical University of Moldova\PR\TMPS\lab0\obj\Debug\net8.0\lab0.AssemblyInfo.cs
+D:\OneDrive - Technical University of Moldova\PR\TMPS\lab0\obj\Debug\net8.0\lab0.csproj.CoreCompileInputs.cache
+D:\OneDrive - Technical University of Moldova\PR\TMPS\lab0\obj\Debug\net8.0\lab0.dll
+D:\OneDrive - Technical University of Moldova\PR\TMPS\lab0\obj\Debug\net8.0\refint\lab0.dll
+D:\OneDrive - Technical University of Moldova\PR\TMPS\lab0\obj\Debug\net8.0\lab0.pdb
+D:\OneDrive - Technical University of Moldova\PR\TMPS\lab0\obj\Debug\net8.0\lab0.genruntimeconfig.cache
+D:\OneDrive - Technical University of Moldova\PR\TMPS\lab0\obj\Debug\net8.0\ref\lab0.dll
